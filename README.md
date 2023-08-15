@@ -1,9 +1,9 @@
 # Ram's Portfolio
-BI & Data visualization
+## BI & Data visualization
 
 # [Brown pelican nest monitoring](https://github.com/ra-mss/Power-BI-Projects/blob/main/ISLABALLENA.pdf)
 
-## Population size monitoring of the brown pelican by counting and categorizing nests on Isla Ballena, B.C.S. (2018 - 2020).
+## Population size monitoring of the brown pelican by counting and categorizing nests on Isla Ballena, B.C.S. (2018 - 2020)
 
 - This project was part of my results for my bachelor's thesis project.
 
@@ -28,4 +28,4 @@ BI & Data visualization
 Calculation of revenue, average daily rate, booking nights, discount and number of car spaces in two different hotels over two years.
 
 
-# [Other projects (Statistical analysis, Map ocurrence, etc.](https://github.com/ra-mss?tab=repositories)
+# [Other projects (Statistical analysis, Map ocurrence, etc.)](https://github.com/ra-mss?tab=repositories)
