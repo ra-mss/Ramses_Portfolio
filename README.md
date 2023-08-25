@@ -11,7 +11,7 @@
 - The objetive was to understand how their customers are using their bikes; their top priority was identifying customer demand at different station locations.
 
 <div align='center'>
-<img src="https://raw.githubusercontent.com/ra-mss/portfolio/main/Cyc_1.png" width="550" height="auto"><img src="https://raw.githubusercontent.com/ra-mss/portfolio/main/Cyc_2.png" width="550" height="auto">
+<img src="https://raw.githubusercontent.com/ra-mss/portfolio/main/Cyc_1.png" width="500" height="auto"><img src="https://raw.githubusercontent.com/ra-mss/portfolio/main/Cyc_2.png" width="500" height="auto">
 </div>
 
 ## [Brown pelican nest monitoring](https://github.com/ra-mss/Power-BI-Projects/blob/main/ISLABALLENA.pdf)
