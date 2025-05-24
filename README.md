@@ -1,4 +1,27 @@
-### BI & Data visualization
+### 
+
+## [Anomalous nuclei detector and classifier]
+### Automated detection of anomalous nuclei in seabird erythrocytes (Work in progress)
+
+<!-- - This project is in collaboration with the Marine Aeroecology Laboratory (CICESE-ULP). -->
+- First part: Trained model that automatically detects and trims 1000 nuclei.
+- Second part: Analysis of the nuclei in their shape, size, length and width in pixels, and other characteristics.
+- Third part: Classification according to its characteristics: healthy or anomalous.
+
+<div align='center'>
+<img src="https://github.com/ra-mss/nuclei-detector/blob/main/nuclei.jpg" width="650" height="auto">
+</div>
+<!--
+## [Black-vented shearwater (Puffinus ophistomelas) burrows detector](https://github.com/ra-mss/nesting-burrows-detection)
+### Automated detection of burrows with orthophotographs and an object detection model: YOLO (Work in progress) 
+
+<div align='center'>
+  <video width="450" height="auto" controls>
+    <source src="https://github.com/ra-mss/nesting-burrows-detection/blob/main/vid.mp4_out.mp4" type="video/mp4">
+    Tu navegador no soporta el elemento de video.
+  </video>
+</div>
+-->
 
 ## [Google BI Project](https://public.tableau.com/app/profile/rams.s.p.rez/viz/CyclisticProject_16922197668730/Cyclistic)
 
