@@ -7,7 +7,7 @@
 - Third part: Classification according to its characteristics: healthy or anomalous.
 
 <div align='center'>
-<img src="https://github.com/ra-mss/nuclei-detector/blob/main/nuclei.jpg" width="500" height="auto">
+<img src="https://raw.githubusercontent.com/ra-mss/nuclei-detector/refs/heads/main/nuclei.jpg" width="550" height="auto">
 </div>
 <!--
 ## [Black-vented shearwater (Puffinus ophistomelas) burrows detector](https://github.com/ra-mss/nesting-burrows-detection)
