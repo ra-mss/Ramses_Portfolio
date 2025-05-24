@@ -1,5 +1,3 @@
-### 
-
 ## [Anomalous nuclei detector and classifier]
 ### Automated detection of anomalous nuclei in seabird erythrocytes (Work in progress)
 
@@ -9,7 +7,7 @@
 - Third part: Classification according to its characteristics: healthy or anomalous.
 
 <div align='center'>
-<img src="https://github.com/ra-mss/nuclei-detector/blob/main/nuclei.jpg" width="650" height="auto">
+<img src="https://github.com/ra-mss/nuclei-detector/blob/main/nuclei.jpg" width="500" height="auto">
 </div>
 <!--
 ## [Black-vented shearwater (Puffinus ophistomelas) burrows detector](https://github.com/ra-mss/nesting-burrows-detection)
